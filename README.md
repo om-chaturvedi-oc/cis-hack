@@ -10,7 +10,7 @@
 * [Akshat Bhansali](akshat.bhansali@s.amity.edu)
 
 ## Overview :
-In this pandemic situation most of the people wantsto travel for their either purpose, business or personal
+In this pandemic situation most of the people wants to travel for their either purpose, business or personal
 Well, traveling could be enjoyed if there is all safety, precautions and no risk.
 
 what if we get a platform, which tells us that visiting to a place is safe or not?
