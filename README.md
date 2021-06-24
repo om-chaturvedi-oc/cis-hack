@@ -1,27 +1,46 @@
-![](https://storage.googleapis.com/incind/CISDarkeLJBiNH.png)
+# Travel Safe
+> Stay healthy, Spend wisely and Travel Safely !!!
 
-## Code Innovation Hackathon - IIT-G.
-This is the official Idea/project submission repository for CODE INNOVATION SERIES HACKATHON - IIT-G.
+![travel safe](https://user-images.githubusercontent.com/76032847/123211927-be473580-d4e1-11eb-86f9-dcdf69d110b3.png)
 
-## Submission Procedure
-Read the following steps and guidelines properly for proper submission of your project. Missing out any step or performing it wrongly can lead to unsuccessful submission. 
+## Team Members :
 
-### Step 1
-#### Fork this repository
+* [Om Chaturvredi](om.chaturvedi@s.amity.edu)
+* [Shubham Banjare](shubham.banjare@s.amity.edu)
+* [Akshat Bhansali](akshat.bhansali@s.amity.edu)
 
-### Step 2
-#### Create a New Folder within the forked repository, with the 'folder name' being your 'Team Name'
+## Overview :
+In this pandemic situation most of the people wantsto travel for their either purpose, business or personal
+Well, traveling could be enjoyed if there is all safety, precautions and no risk.
 
-## Contents of the folder
-+ The project directory.
-+ The presentation that you will be presenting while presenting your project before the judges.
-+ A text file that contains proper documentation. The documentation should contain:
-    - A description of your project.
-    - The contents of your project directory.
-    - Ways to host your project on the localhost.
-+ The name of the 'pptx' and 'text' files should also be the 'team name'.
+what if we get a platform, which tells us that visiting to a place is safe or not?
+Here comes the idea to make Travel Safe System !
 
-### People with only hardware solution are required to submit only the 'pptx' and 'text' files. A link to the video demonstration of your working model should also be included in both the files.
 
-\
-You can complete your work on the local machine and then upload your project folder in the forked repository and proceed to create a Pull Request (PR).
+## What is Travel Safe?
+Presenting the new system that allows you to look for:
+* Current pandemic situation
+* Current vaccination status
+* Zonal wise information's
+
+Travel Safe system's graphs/ charts/ stats make is more easy to understand things in better way!
+
+
+## Presentation :
+[Travel Safe PPT](https://drive.google.com/file/d/1U5lrPuJSaj4VemE-cCJldPA4DFW5s2YK/view?usp=sharing)
+
+## Video :
+[Travel Safe demo video](https://drive.google.com/file/d/1-aFIf7YswpSNAXAnntU8kqUQjO2XES7-/view?usp=drivesdk)
+
+## Tech Stack used :
+
+  |front end | `HTML, CSS, JS`                                  |
+  |----------|--------------------------------------------------|
+  |back end  | `Firebase / SQL`                                 |
+
+>Website details and designs will be shared shortly
+
+## Purpose :
+To give you the details of the vaccination status done so far, 
+making it easy for you to understand and move accordingly.
+
