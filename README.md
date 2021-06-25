@@ -38,7 +38,10 @@ Travel Safe system's graphs/ charts/ stats make is more easy to understand thing
   |----------|--------------------------------------------------|
   |back end  | `Firebase / SQL`                                 |
 
->Website details and designs will be shared shortly
+## Website details (Sample):
+
+[Travel Safe](https://omchaturvediindia.wixsite.com/my-site-2/)
+
 
 ## Purpose :
 To give you the details of the vaccination status done so far, 
