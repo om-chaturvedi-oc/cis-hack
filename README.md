@@ -1,7 +1,9 @@
 # Travel Safe
 > Stay healthy, Spend wisely and Travel Safely !!!
 
-![travel safe](https://user-images.githubusercontent.com/76032847/123211927-be473580-d4e1-11eb-86f9-dcdf69d110b3.png)
+
+![image](https://user-images.githubusercontent.com/76032847/123377602-e13d1c80-d5a9-11eb-8f91-1bcf838df834.png)
+
 
 ## Team Members :
 
@@ -23,7 +25,9 @@ Presenting the new system that allows you to look for:
 * Current vaccination status
 * Zonal wise information's
 
-Travel Safe system's graphs/ charts/ stats make is more easy to understand things in better way!
+>Travel Safe system's graphs/ charts/ stats make is more easy to understand things in better way!
+
+![travel safe](https://user-images.githubusercontent.com/76032847/123211927-be473580-d4e1-11eb-86f9-dcdf69d110b3.png)
 
 
 ## Presentation :
