@@ -31,7 +31,7 @@ Presenting the new system that allows you to look for:
 
 
 ## Presentation :
-[Travel Safe PPT](https://drive.google.com/file/d/1U5lrPuJSaj4VemE-cCJldPA4DFW5s2YK/view?usp=sharing)
+[Travel Safe](https://drive.google.com/file/d/1U5lrPuJSaj4VemE-cCJldPA4DFW5s2YK/view?usp=sharing)
 
 ## Video :
 [Travel Safe demo video](https://drive.google.com/file/d/1-aFIf7YswpSNAXAnntU8kqUQjO2XES7-/view?usp=drivesdk)
